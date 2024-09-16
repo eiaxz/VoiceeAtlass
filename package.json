@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@distube/soundcloud": "^1.3.0",
+    "@distube/spotify": "^1.5.1",
+    "@distube/ytdl-core": "^4.14.4",
+    "@types/node": "^18.0.6",
+    "axios": "^1.3.4",
+    "discord.js": "13.12",
+    "distube": "^3.3.4",
+    "enmap": "^5.9.5",
+    "express": "^4.18.2",
+    "ffmpeg-static": "^4.4.1",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.2.6",
+    "totp-generator": "^0.0.14",
+    "tweetnacl": "^1.0.3"
+  }
+}
