@@ -1,4 +1,4 @@
-require('events').EventEmitter.defaultMaxListeners = 500000;
+require('events').EventEmitter.defaultMaxListeners = 1000000;
 
 const express = require('express');
 const app = express();
